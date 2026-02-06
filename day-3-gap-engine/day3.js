@@ -1,13 +1,21 @@
-Company: ABC Limited
-Starting gap analysis...
+// Company details
+let companyName = "ABC Limited";
 
-Data Protection Policy: ❌ Gap detected (Missing 3)
-Access Control: ❌ Gap detected (Missing 1)
-Incident Response Plan: ✅ Compliant
-
-Gap Report:
-[
-  { requirement: 'Data Protection Policy', status: 'Gap', gap: 3 },
-  { requirement: 'Access Control', status: 'Gap', gap: 1 },
-  { requirement: 'Incident Response Plan', status: 'Compliant', gap: 0 }
-]
+// Gap analysis requirements
+let requirements = [
+  {
+    name: "Data Protection Policy",
+    currentScore: 2,
+    targetScore: 5
+  },
+  {
+    name: "Access Control",
+    currentScore: 4,
+    targetScore: 5
+  },
+  {
+    name: "Incident Response Plan",
+    currentScore: 1,
+    targetScore: 5
+  }
+];
