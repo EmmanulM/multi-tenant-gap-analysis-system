@@ -9,3 +9,6 @@ Receive notifications
 Upload evidence to close the gaps
 
 The system supports multiple companies (multi-tenancy),where each company only sees it's own data.
+
+day-2-js-basics/
+day2.js
