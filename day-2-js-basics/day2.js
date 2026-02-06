@@ -12,4 +12,3 @@ if (currentScore >= targetScore) {
   let gap = targetScore - currentScore;
   console.log("Gap detected. Missing:", gap);
 }
-
