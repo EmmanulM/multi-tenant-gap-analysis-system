@@ -1,11 +1,13 @@
-# multi-tenant-gap-analysis-system
+# Multi-Tenant Gap Analysis System
+
 This project is a compliance and gap analysis system.
 
 Companies can:
-Upload policies and standards
-Perform gap analysis
-Identify compliance gap
-Receive notifications
-Upload evidence to close the gaps
+- Upload policies and standards
+- Perform gap analysis
+- Identify compliance gaps
+- Receive notifications
+- Upload evidence to close gaps
 
-The system supports multiple companies (multi-tenancy),where each company only sees it's own data.
+The system supports multiple companies (multi-tenancy),
+where each company only sees its own data.
